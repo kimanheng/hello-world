@@ -1,8 +1,7 @@
 # Hello, World!
 “Hello, World!” in various popular programming languages
 
-<hr>
-Here’s a list of the typical file formats (extensions) associated with each language:
+## File Formats:
 
 1. **Python**: `.py`
 2. **Java**: `.java`
